@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from one in the country, concerning some of the present differences</title>
+            <author>Ireneus Aletheian.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25860</idno><idno type="EEBO-CITATION">16144897</idno>
+  <idno type="VID">206215</idno>
+  <idno type="EEBO-PROQUEST">2248505255</idno>
+  
+            <idno type="STC">Wing L1494A</idno>
+            <idno type="OCLC">16144897</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25860)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:116)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from one in the country, concerning some of the present differences</title>
+                  <author>Ireneus Aletheian.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Bartholomew Green and John Allin,</publisher>
+                  <pubPlace>[Boston, Mass. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Ireneus Aletheian.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: pages cropped, with print show-through and some loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Theology, Doctrinal --  New England --  History --  17th century.</term>
+               <term type="geographic_name">New England --  Church history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:206215:1"/>
+            <pb facs="tcp:206215:1"/>
+            <head>A LETTER From One in the Country, Concerning some of the Present <hi>Differen<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es.</hi>
+            </head>
+            <p>WE in the <hi>Country</hi> have seen the late Books Printed about Church Discipline, and have had <hi>thoughts of Heart</hi> what it may come to if proceeded in Be sure neither, the times nor our, Churches will bear any way or side contended for, if stretched to the utmost Latitude. Some have been considering how to accommodate the Principles contended for, and to bring them together again. Among the rest, I have made an Essay. <hi>As for the wild excrescencies or hard Reflections</hi> I con<g ref="char:EOLhyphen"/>cern not my, self with them: <hi>Love and Humility and Self denyal ex<g ref="char:EOLhyphen"/>ercised will cure them. And when the heat is over, they that are most active in Grace will bewail them first.</hi>
+            </p>
+            <p>I find Seventeen Questions Debated, and by either side strained through zeal of Spirit, if I may so call it. My endeavour is to pick up the Truth granted by each, in which, I would have all <hi>Moderate Persons agree;</hi> and all see <hi>how little disagreement there is, notwithstand<g ref="char:EOLhyphen"/>ing the great noise of Contention.</hi>
+            </p>
+            <p>The First Question proposed in <hi>Gospel Order Vindicated,</hi> is, <hi>Whe<g ref="char:EOLhyphen"/>ther Particular Churches ought to consist of Saints &amp; true Believers in Christ?</hi>
+            </p>
+            <p>Here we find a full agreement in the Words of the United Brethren in <hi>London. Gospel Order Vindicated</hi> mentions the Article: <q rend="inline">That none shall be Admitted as Members in order to Communion in all the Special Ordinances of the Gospel, but such persons as are knowing and sound, in the Fundamental Doctrines of the Christian Religi<g ref="char:EOLhyphen"/>on, without <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>candal in their lives, and to a Judgment regulated by the Word of God are persons of visible Godliness and Honesty, credibly professing cordial subjection to Jesus Christ.</q>
+            </p>
+            <p>This <hi>Gospel Order Revived</hi> professes for, and acquiesces in; here is good agreement, let us leave the rest.</p>
+            <p>The Second Question, <hi>Whether there ought not to be a tryal of pere sons concerning their Qualifications of fitness for Church Communion before they are admitted thereunto?</hi>
+            </p>
+            <p>The Affirmative of this is pleaded for in <hi>Gospel Order Vindicated,</hi> and fully consented to in <hi>Gospel Order Revived.</hi> Here there is no dif<g ref="char:EOLhyphen"/>ference nor pretence for it.</p>
+            <p>The Third Question. <hi>Whether are not the Brethren and not the El<g ref="char:EOLhyphen"/>ders of the Church only, to judge concerning the Qualifications and fitness of these who are admitted into their Communion?</hi>
+            </p>
+            <p>The Reverend Author of <hi>Gospel Order Vindicated</hi> supposes that there may be some difference of apprehension here, and yet without
+<pb facs="tcp:206215:2"/>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> find also in the Defence of Evangelical Churches, (to which the same <hi>Reverend Author</hi> subscribes) page 30, 31. <q rend="inline">
+                  <hi>We readily grant, That the Elders of the Churches are to be the Rulers of them.</hi> And that it is a gross piece of <hi>Merellian</hi> and <hi>Brownistical Anarchy</hi> for the Votes of the Brethren to be valid without their Concurrence, <hi>and that the Brethren taking the work out of their hands is very offensive to the God of Order.</hi>
+               </q> I find in <hi>Gospel, Order Revived,</hi> that they plead not to have the Brethren excluded from <hi>all acting:</hi> But that the A<g ref="char:EOLhyphen"/>postle would have every one to keep his proper place and sphaere, and do his own <hi>Work,</hi> the <hi>Eldership</hi> theirs, and the <hi>Brethren</hi> theirs. And moreover I find that they think it fit to have Members proposed to the Congregation, that they may either consent or object. If each be candidly interpreted, either there is no difference, or the difference is very minute.</p>
+            <p>Qu. 4. <hi>Whether is it necessary that persons at their Admission into the Church should make a publick Relation of the time and manner of their Conversion?</hi>
+            </p>
+            <p>This Question in <hi>Gospel Order Vindicated,</hi> is answered negatively: And in <hi>Gospel Order Revived,</hi> the Answer is assented to and highly approved. In after discourses there seems to be some difference, but as far as I can understand, <hi>One part</hi> stands for that, that it <hi>ought not to be imposed,</hi> and the <hi>other, that it may be practised where it is useful and edifying;</hi> Both which may be consistent.</p>
+            <p>Quest. 5. <hi>Hath the Church Covenant as commonly practised in the Churches of</hi> Now England, <hi>any Scripture Foundation?</hi>
+            </p>
+            <p>The Answer to this Question may at first view seem to contain great difference, <hi>it did so to me.</hi> But after I had lookt into it, I quickly perceived the Reverend Authors might <hi>easily be reconciled in this matter. Gospel Order Vindicated</hi> pleads hard for a Church Cove<g ref="char:EOLhyphen"/>nant, but in the explication and pleas for it, I find it reduced to much such a Covenant as <hi>Israel</hi> was in of old, and sometimes to a publick profession of Faith, and a promise to walk according thereunto. And I find in that fore quoted Book, <hi>A Defence of Evangelical Churches,</hi> Subscribed by the Reverend Author and his Son. <hi>page</hi> 40. <q rend="inline">For our Church Covenant is nothing else but an acknowledgment of our obligations unto those duties which become incumbent on us, as rela<g ref="char:EOLhyphen"/>ting unto such or such a Church of His, <hi>No man that knows any thing ever took it for any other.</hi>
+               </q> As much is owned and pleaded for in Gospel Order <hi>Revived. Page</hi> 11.</p>
+            <p>Quest. 6. <hi>Is Publick Reading of the Scriptures without any Explication or Exhortation therewith, part of the Work incumbent on a Minister of the Gospel?</hi> Give me leave to joyn to this the <hi>Sixteenth Question,</hi> in that the same Comment may indifferently serve either.</p>
+            <p>Quest. 16. <hi>Is it the duty for Christians in their Prayers, to make use of the words of that which is commonly called.</hi> The Lord's Prayer?</p>
+            <p>In answer to the first, in <hi>Gospel Order Vindicated,</hi> tis said the Que<g ref="char:EOLhyphen"/>stion is not whether such Readings are lawful, for who <hi>doubts that?</hi>
+               <pb facs="tcp:206215:2"/>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it is lawful to make use of those words in prayer. <hi>No man can roti<g ref="char:EOLhyphen"/>onally doubt but that the words in that, as well as the words of other Prayers in the Scripture may be made use of in our Addresses to Heaven.</hi> The Questions being not about their lawfulness or unlawfulness, it must be about their expediency, when things lawful are expedient. And if this were the Question, it is like there would be no disagree<g ref="char:EOLhyphen"/>ment, or besure none that need make any difference in any of our Churches.</p>
+            <p>Quest. 7. <hi>Is Baptism to be administred to all Children whom any pro<g ref="char:EOLhyphen"/>fessed Christian shall engage to see Educated in the Christian Religion?</hi>
+            </p>
+            <p>
+               <hi>Gospel Order Vindicated,</hi> or the Rd. <hi>Author</hi> of it saith, if the Question were only whether all Children adopted by Believing Parents might not be Baptized, we should not oppose. <hi>Gospel Order Revived</hi> saith, <hi>on this we declare our selves satisfied, and crave no more.</hi> There is un<g ref="char:EOLhyphen"/>der this head a large discourse upon another Question: <hi>Who are Pro<g ref="char:EOLhyphen"/>fessed Christians?</hi> But I do not see but that one part takes it as nar<g ref="char:EOLhyphen"/>row as the other.</p>
+            <p>Quest. 8. <hi>Is Baptism in a private house where there is no Church Assem<g ref="char:EOLhyphen"/>bly allowable?</hi>
+            </p>
+            <p>
+               <hi>Gospel Order Revived</hi> saith, <hi>We</hi> agree with the Reverend Author, That Baptism is a part of the Publick Ministry, nor may it be admi<g ref="char:EOLhyphen"/>nistred by one who is not Called to the Publick Ministry; neither should it <hi>usually or ordinarily be administred but in a sull Congregation, nor would we drop a word to discourage so pious a practice.</hi> I cannot see that the Reverend Author of <hi>Gospel Order Vindicated,</hi> can by his Question and Answer drive at any more than what is yielded.</p>
+            <p>Quest. 9. <hi>Ought all that contribute towards the Maintenance to have the priviledge of Voting to the Election of a Pastor?</hi>
+            </p>
+            <p>Here we find some good agreement: <hi>Gospel Order Revived</hi> speak<g ref="char:EOLhyphen"/>ing of the Reverend Author of the other Book, saith, <hi>and under his fourth argument he tells us, that nothing is more evident than that in the First Ages of the Church, Pastors were Chosen by all and only their Flocks,</hi> which we verily believe. Nor could he have expressed the truth in more apt words. This seems to be the sense of both; if there should arise difference about the latitude of <hi>the Flock,</hi> Churches must exercise prudence to preserve peace.</p>
+            <p>Quest. 10. <hi>Is it expedient that Churches should enter into a Consociation or Agreement that matters of more than ordinary importance, such as Gather<g ref="char:EOLhyphen"/>ing of a New Church, the Ordination, Deposi ion or Translation of a Pastor he done with Common consent?</hi>
+            </p>
+            <p>All the difference in Answer to this as far as I can find is, that the one pleads, that it is <hi>Expedient</hi> to enter into a Conlociation and A<g ref="char:EOLhyphen"/>greement, and the other, that they are <hi>already bound by virtue of their profession and Christian Covenant:</hi> And, what if it be yielded that they are already bound, and may sometimes have occasion to renew their bonds?</p>
+            <p>Quest. 11. <hi>May the Brethren in Churches and not the Pastors only be sent <gap reason="illegible" resp="#oxf" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their Voice in Ecclesiastical Councils?</hi>
+            </p>
+            <pb facs="tcp:206215:3"/>
+            <p>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Pastors should be <hi>Principal or Principally concern'd.</hi> I do not <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that Gospel Order <hi>Revived</hi> doth <hi>wholly exclude</hi> the Brethren from such Councils, but <hi>rather admits them</hi> for some ends or use or benefit, though not of equal Voice.</p>
+            <p>Quest. 12. <hi>Does the Essence of a Ministers Call consist in his being Ordained with the Imposition of hands by other Ministers?</hi>
+            </p>
+            <p>In Gospel Order <hi>Revived,</hi> this is joyned with the next, &amp; for brevity sake, I shall follow the same method.</p>
+            <p>Quest. 13. <hi>May a man be Ordained a Pastor except to a Particular Church, and in the presence of that Church?</hi>
+            </p>
+            <p>I find the greatest difficulty to shew the plain &amp; distinct Agreement in the Answers to these Questions of any, But I shall Essay it. As it is most certain that a Minister may be considered under a double Relation, the <hi>One</hi> referring <hi>to Christ</hi> and him whereby he is Christs Minister, and the <hi>other</hi> referring <hi>to the particular Flock</hi> to which he is Ordinarily appropriated, and so is theirs; as this double relation is true, so I find it owned of both sides. The Reverend Author of Gospel Order <hi>Vindicated,</hi> though he speaks mostly of that relation to the Church, yet he doth in some measure own <hi>the other here, and in his other writings more fully.</hi> So Gospel order <hi>Revived</hi> though it speaks mostly respecting the Relation betwixt Christ and the Minister, yet they own <hi>the other Relation also.</hi> Now, <hi>let what is spoken one way or other</hi> be given to the <hi>respective Relations only,</hi> and the difference will presently cease.</p>
+            <p>Quest. 14. <hi>Is the practice of the Churches of</hi> New England <hi>in grant<g ref="char:EOLhyphen"/>ing Letters of Recommendation, or Dismission from one Church to another according to Scripture, and the examples of other Churches?</hi>
+            </p>
+            <p>I take notice of a passage that the Reverend Author of Gospel Order <hi>Vindica<g ref="char:EOLhyphen"/>ted</hi> lays down in his Answer hereunto towards the latter end. By the Letters in Controversy nothing else is intended but <hi>Letters Testimonial from some Church of Christ, or the Elders thereof concerning some of their Communion Removing from them to another People, be it for lesser or longer time.</hi> I find it said in Gospel Or<g ref="char:EOLhyphen"/>der <hi>Revived.</hi> Indeed <hi>there may be a good use</hi> of Letters of Recommendation &amp; <hi>especially among Strangers:</hi> And this I think agrees well with the other.</p>
+            <p>Quest. 15 <hi>Is not the asserting that a Pastor may Administer the Sacrament to another Church besides his own particular Flock, at the desire of that other Church, a declension from the first Principles of</hi> New-England, <hi>&amp; of the Congregational way?</hi>
+            </p>
+            <p>The Reverend Author Answers <hi>not at all.</hi> Gospel Order <hi>Revived</hi> saith it is no declension from <hi>Truth,</hi> but agreeable to it. And why not both agree, it is no declension from either.</p>
+            <p>Quest. 17. <hi>May the Churches under the Presbyterian and Congregational Disci<g ref="char:EOLhyphen"/>pline maintain Communion with one another notwithstanding their differing Sentiments as to Church Government?</hi>
+            </p>
+            <p>The Reverend Author Answers, <hi>They may and ought to do so.</hi> Gospel Or<g ref="char:EOLhyphen"/>der <hi>Revived</hi> highly approves of the Answer, and doctrine of it.</p>
+            <p>And now it appears there is a <hi>very Tolerable and Comfortable</hi> Agreement in Principles: And why then should <hi>height or heat of Spirit hinder our walking to<g ref="char:EOLhyphen"/>gether, and good Agreement?</hi> It is desired that all that love ZION would put in and forward our Peace and Concord, and Fellowship in the Gospel.</p>
+            <closer>
+               <signed>IRENEUS ALETHEIAN</signed>
+            </closer>
+            <pb facs="tcp:206215:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
